@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="global_button_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@drawable/background_dark_with_corners</item>
+        <item name="android:textColor">@color/color_light</item>
+    </style>
+
+    <style name="global_input_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/margin_m</item>
+        <item name="android:background">@drawable/background_transparent_color_round_dark_corners</item>
+        <item name="backgroundTint">@color/color_text_grey</item>
+    </style>
+
+    <style name="Footnote" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">sans-serif</item>
+        <item name="fontStyle">normal</item>
+        <item name="android:textSize">@dimen/txt_footnote_size</item>
+        <item name="lineHeight">@dimen/txt_footnote_line_height</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">@color/color_dark</item>
+        <item name="android:lineSpacingExtra">@dimen/txt_footnote_line_spacing_extra</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:translationY">@dimen/txt_footnote_translation_y</item>
+    </style>
+
+</resources>

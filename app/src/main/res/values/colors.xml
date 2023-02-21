@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#27293F</color>
+    <color name="colorPrimaryDark">#27293F</color>
+    <color name="colorSecondary">#68d184</color>
+
+    <color name="color_dark">#FF000000</color>
+    <color name="color_text_grey">#C2C2C2</color>
+    <color name="color_text_light_grey">#D3D3D3</color>
+    <color name="color_light">#FFFFFFFF</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="connectionStatusErrorColor">#ef5350</color>
+    <color name="connectionStatusConnectingColor">#FFF172</color>
+    <color name="connectionStatusEstablishedColor">#80E977</color>
+</resources>

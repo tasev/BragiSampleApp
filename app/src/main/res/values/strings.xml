@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BragiSampleApp</string>
+    <string name="login_button_title">Go to Sign up</string>
+    <string name="sign_up_button_title">Go to Forgot Password</string>
+    <string name="forgot_password_button_title">Go to Login</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="password_confirm_hint">confirm password</string>
+    <string name="check_connection">Check connection</string>
+
+    <string name="connection_error">connection error</string>
+    <string name="connection_connecting">connecting</string>
+    <string name="connection_established">connection established</string>
+    <string name="ok">Ok</string>
+    <string name="message_sent">message sent</string>
+    <string name="send_commands">Send Commands</string>
+</resources>

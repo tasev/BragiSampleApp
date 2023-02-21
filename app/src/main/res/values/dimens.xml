@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_xxl">40dp</dimen>
+    <dimen name="margin_xl">30dp</dimen>
+    <dimen name="margin_l">20dp</dimen>
+    <dimen name="margin_m">16dp</dimen>
+    <dimen name="margin_s">10dp</dimen>
+
+    <dimen name="txt_footnote_size">12sp</dimen>
+    <dimen name="txt_footnote_line_height">18sp</dimen>
+    <dimen name="txt_footnote_translation_y">1.24sp</dimen>
+    <dimen name="txt_footnote_line_spacing_extra">2sp</dimen>
+</resources>
